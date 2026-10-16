@@ -8,7 +8,7 @@ namespace Tyuiu.MakeenkovMS.Sprint1.Task2.V5
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Макеенков М. С. | Группа: ПИНб-26-1";
+            Console.Title = "Спринт #1 | Выполнил: Макеенков М. С. | ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
